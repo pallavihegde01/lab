@@ -1,2 +1,2 @@
 # lab
-*project management with git
+* project management with git
